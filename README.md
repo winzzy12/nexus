@@ -2,6 +2,8 @@
 
 > Next-generation Web3 portfolio management and DeFi analytics platform built with Next.js 14, Tailwind CSS, and wagmi.
 
+**🚀 [Live Demo](https://nexus1-zeta.vercel.app/)**
+
 ## Features
 
 - 🌐 Multi-chain wallet connection (MetaMask, WalletConnect)
