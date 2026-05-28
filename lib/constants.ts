@@ -9,8 +9,8 @@ export const SITE_CONFIG = {
 export const NAV_LINKS = [
   { name: 'Home', href: '/' },
   { name: 'Dashboard', href: '/dashboard' },
-  { name: 'Portfolio', href: '/dashboard' },
-  { name: 'Analytics', href: '/dashboard' },
+  { name: 'Portfolio', href: '/portfolio' },
+  { name: 'Analytics', href: '/analytics' },
 ]
 
 export const FEATURES = [
